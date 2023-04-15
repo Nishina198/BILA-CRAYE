@@ -1,0 +1,45 @@
+.conteiner{
+    
+    height: 100%;
+    background: url(img/Rectangle\ 1.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;                 
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    
+}
+@media screen and (max-width: 450px) {
+    .conteiner{
+        background: url(img/Rectangle\ 6.png);
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;                 
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    } 
+}
+
+.spn_nav, .spn_nav_left, .daf{
+    text-decoration: none;
+    color: white;
+}
+.line_animation{
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 33%;
+    background-color: white;
+    width: 117px;
+    height: 3px;
+    border-radius: 6px;
+}
+#new1, #faq1,#tshirt1, #sweatshirt1, #hodie1, #pants1, #backpacs1{
+    text-decoration: none;
+    font-family: 'FuturaPT-Book';
+    margin: 0.8%;
+    color: white;
+    
+}

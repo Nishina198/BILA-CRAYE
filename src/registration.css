@@ -1,0 +1,104 @@
+
+body.active-modal{
+    overflow: hidden;
+    background-color: rgb(0, 0, 0, 0.4);
+    
+}
+
+.activemodal_home1,.activemodal_home{
+    overflow: hidden;
+    background-color: rgb(0, 0, 0, 0.4);
+}
+.menu1{
+    
+    
+    height: 200%;
+    width: 100vw;
+    position: fixed;
+    
+}
+.blk_element{ 
+    position: absolute;
+    height: 300px; 
+    width: 310px; 
+    background-color: white;
+    margin-left: 65%;
+    margin-top: 0.5%;  
+    border: none;
+    border-radius: 10px; 
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+#input, #input1{
+    margin: 5% 5%;
+    border: none;
+    margin-left: 5%;
+    width: 90%;
+    height: 30px;
+    outline: none;
+    background-color: #F3F3F3;
+    border-radius: 15px;
+    padding-left: 10px;
+}
+
+.box{
+    display: flex;
+    align-items:flex-end;
+    padding-bottom: 4%;
+}
+#under_line{
+    text-decoration: underline #7A7777 dotted;
+    text-underline-offset: 20%;
+}
+.btn{
+    margin-left: 32%;
+    width: 113px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: #212121;
+    margin-top: 8%;
+    margin-bottom: 3%;
+    
+}
+.btn_class{
+    font-family: 'FuturaPT-Medium';
+    color: white;
+}
+.cntr{
+    
+    text-align: center;
+    
+}
+.icons{
+    display: flex;
+    margin-left: 40%;
+    padding-left: 5px;
+    margin-top: 4%;
+    
+}
+.sought{
+    margin-left: 5%;
+}
+.regestration{
+    margin: 0 5%;
+    font-family: 'FuturaPT-Medium';
+    color: #7A7777;
+    font-size: 16px;
+    line-height: 1.2;
+
+    
+}
+.element{
+    margin-top: 2%;
+    padding-top: 5%;
+}

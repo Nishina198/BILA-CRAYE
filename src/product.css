@@ -1,0 +1,31 @@
+
+
+
+.item{
+   
+    margin-right: 1%;
+    width: 280px;
+    height: 340px;
+    font-family: 'FuturaPT-Book';
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 3%;
+    border: solid rgb(43, 43, 43) 0.5px;
+}
+main .item img{
+    width: 100%;
+    margin-bottom: auto;
+    
+}
+
+.item_descr{
+    
+    
+    margin-top: 0;
+}
+.div_top, .div_top_1{
+    background-color: black;
+    padding-bottom: 1.5%;
+}
+
+

@@ -1,0 +1,117 @@
+.title_text{
+    font-family: "FuturaPT-Medium";
+    font-size: 20px;
+    
+    
+}
+.p_text{
+    width: 40%; 
+}
+.main_faq{
+    
+    margin: 5% 15% 0 10%;
+    padding-bottom: 20%;
+    font-family: "FuturaPT-Book";
+}
+
+@media screen and (max-width: 450px){
+    .div_title{
+        display: flex;
+        flex-direction: column;
+    }
+    .elements_p, .element_p{
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        
+        width: 0;
+    }
+    .div_text1, .div_text2{
+        width: 40%;
+       
+    }
+        
+    
+    .right_span1 {
+        display: none;
+       
+    }
+   .span_title_btn{
+    display: none;
+    text-decoration: none;
+   }
+}
+@media screen and (min-width: 450px){
+    .element_p{
+        margin-left: 60%;
+        width: 200px;
+    }
+    .elements_p{
+        width: 200px;
+    }
+    .div_text1, .div_text2{
+       
+        width: 40%;
+        
+    }
+}
+.div_title{
+    display: flex;
+}
+.element_p{
+    
+    display: inline;
+    
+    border: black 1px;
+    border-style: solid none none none;
+    
+    
+
+}
+.elements_p{
+    
+    border: black 1px;
+    border-style: solid none none none;
+    
+   
+    
+}
+.title_btn{
+    
+    font-family: "FuturaPT-Medium";
+    font-size: 15px;
+    display: inline;
+    
+    
+}
+
+.main_div{
+    display: flex;
+}
+
+.div_text1, .div_text2{
+    display: flex;
+  
+    
+}
+.p_text1, .p_text{
+    width: max-content;
+    
+}
+
+.white_div{
+    padding-bottom: 45%;
+}
+
+#arrow_top, #arrow_top_left{
+    position: relative;
+    padding-left: 10%;
+    vertical-align: bottom;
+  }
+.right_span1{
+    padding-left: 11.5%;
+}
+.top{
+    margin-bottom: 300px;
+} 
