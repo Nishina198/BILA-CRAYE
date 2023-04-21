@@ -18,7 +18,7 @@ export default class PantsEng extends Component {
           desc:'Материал:  Эко-Кожа Количество отделений - 3 Натуральный материал Усиленная ручка',
           category:'pants',
           size:'S',
-          price:'₴500'
+          price:'500₴'
         },
         {
           id: 2,
@@ -27,7 +27,7 @@ export default class PantsEng extends Component {
           desc:'Материал:  Эко-Кожа Количество отделений - 3 Натуральный материал Усиленная ручка',
           category:'pants',
           size:'S',
-          price:'₴500'
+          price:'500₴'
         },
         {
           id: 3,
@@ -36,7 +36,7 @@ export default class PantsEng extends Component {
           desc:'Материал:  Эко-Кожа Количество отделений - 3 Натуральный материал Усиленная ручка',
           category:'pants',
           size:'S',
-          price:'₴500'
+          price:'500₴'
         },
         {
           id: 4,
@@ -45,7 +45,7 @@ export default class PantsEng extends Component {
           desc:'Материал:  Эко-Кожа Количество отделений - 3 Натуральный материал Усиленная ручка',
           category:'pants',
           size:'S',
-          price:'₴500'
+          price:'500₴'
         },
         {
           id: 5,
@@ -54,7 +54,7 @@ export default class PantsEng extends Component {
           desc:'Материал:  Эко-Кожа Количество отделений - 3 Натуральный материал Усиленная ручка',
           category:'pants',
           size:'S',
-          price:'₴500'
+          price:'500₴'
         },
         {
           id: 6,
@@ -63,7 +63,7 @@ export default class PantsEng extends Component {
           desc:'Материал:  Эко-Кожа Количество отделений - 3 Натуральный материал Усиленная ручка',
           category:'pants',
           size:'S',
-          price:'₴500'
+          price:'500₴'
         },
         {
           id: 7,
@@ -72,7 +72,7 @@ export default class PantsEng extends Component {
           desc:'Материал:  Эко-Кожа Количество отделений - 3 Натуральный материал Усиленная ручка',
           category:'pants',
           size:'S',
-          price:'₴500'
+          price:'500₴'
         },
         {
           id: 8,
@@ -81,7 +81,7 @@ export default class PantsEng extends Component {
           desc:'Материал:  Эко-Кожа Количество отделений - 3 Натуральный материал Усиленная ручка',
           category:'pants',
           size:'S',
-          price:'₴500'
+          price:'500₴'
         }
       ]
       

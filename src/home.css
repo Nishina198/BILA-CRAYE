@@ -21,6 +21,9 @@
         -o-background-size: cover;
         background-size: cover;
     } 
+    .line_animation{
+        display: none;
+    }
 }
 
 .spn_nav, .spn_nav_left, .daf{

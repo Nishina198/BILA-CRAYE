@@ -66,7 +66,7 @@ export class ItemsEng extends Component {
           <Item key={el.id} item={el} onAdd={this.props.onAdd}/>
           ))}
         </div>
-        
+            
         <div className='div_page'>
           
             <div className='page1'><span className='textB'>1</span></div>
@@ -74,9 +74,12 @@ export class ItemsEng extends Component {
             <div className='page'><span  className='textA'>3</span></div>
             <div className='page'><span  className='textA'>4</span></div>
             <div className='page'><span  className='textA'>5</span></div>
-            <div className='page'><span  className='textA'>...</span></div>
-          
+           
+
+            
+       
         </div>
+        
     </main>
     )
   }

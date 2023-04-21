@@ -72,7 +72,7 @@ export class Items extends Component {
             <div className='page'><span  className='textA'>3</span></div>
             <div className='page'><span  className='textA'>4</span></div>
             <div className='page'><span  className='textA'>5</span></div>
-            <div className='page'><span  className='textA'>...</span></div>
+           
           
         </div>
     </main>
