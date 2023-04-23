@@ -16,6 +16,7 @@ export default class New extends Component {
           img:'-898404179-608023603.jpg',
           desc:'Материал: хлопок Носибельность: идеальная Натуральный материал Мягкая подошва',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -24,6 +25,7 @@ export default class New extends Component {
           img:'-925166893-633790708.jpg',
           desc:'Материал:  хлопок, резина Качество носки: идеальное Натуральный материал Прочная подошва',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -32,6 +34,7 @@ export default class New extends Component {
           img:'-3780002281256927875.jpg',
           desc:'Материал: хлопок Носибельность: идеальная Натуральный материал Мягкая подошва',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -40,6 +43,7 @@ export default class New extends Component {
           img:'20219423351266261802.jpg',
           desc:'Материал: хлопок Носибельность: идеальная Натуральный материал Гладкая подошва',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -48,6 +52,7 @@ export default class New extends Component {
           img:'Picsart_22-12-25_17-22-50-163.jpg',
           desc:'Материал: хлопок Носибельность: идеальная Натуральный материал Мягкая подошва',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -56,6 +61,7 @@ export default class New extends Component {
           img:'Picsart_22-12-25_17-23-16-856.jpg',
           desc:'Материал: хлопок Носибельность: идеальная Натуральный материал Мягкая подошва',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -64,6 +70,7 @@ export default class New extends Component {
           img:'Picsart_22-12-25_17-23-46-774.jpg',
           desc:'Материал: хлопок Носибельность: идеальная Натуральный материал Мягкая подошва',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -72,6 +79,7 @@ export default class New extends Component {
           img:'Picsart_22-12-25_17-24-04-979.jpg',
           desc:'Материал: хлопок Носибельность: идеальная Натуральный материал Мягкая подошва',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         }
       ]

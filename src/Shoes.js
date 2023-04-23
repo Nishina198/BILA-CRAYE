@@ -15,6 +15,7 @@ export default class Shoes extends Component {
           title:'GYM SNEAKERS',
           img:'-898404179-608023603.jpg',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -22,6 +23,7 @@ export default class Shoes extends Component {
           title:'LACED SNEAKERS',
           img:'-925166893-633790708.jpg',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -29,6 +31,7 @@ export default class Shoes extends Component {
           title:'GYM SNEAKERS WHITE',
           img:'-3780002281256927875.jpg',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -36,6 +39,7 @@ export default class Shoes extends Component {
           title:'WHITE SNEAKERS',
           img:'20219423351266261802.jpg',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -43,6 +47,7 @@ export default class Shoes extends Component {
           title:'BLACK BIG SNEAKERS',
           img:'Picsart_22-12-25_17-22-50-163.jpg',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -50,6 +55,7 @@ export default class Shoes extends Component {
           title:'UNUSUAL SOLE',
           img:'Picsart_22-12-25_17-23-16-856.jpg',
           category:'sneakers',
+          size:'42',
           price:'900₴'
         },
         {
@@ -57,6 +63,7 @@ export default class Shoes extends Component {
           title:'WHITE RUN SNEAKERS',
           img:'Picsart_22-12-25_17-23-46-774.jpg',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         },
         {
@@ -64,6 +71,7 @@ export default class Shoes extends Component {
           title:'GRAY & WHITE SOLE',
           img:'Picsart_22-12-25_17-24-04-979.jpg',
           category:'sneakers',
+          size:'41',
           price:'900₴'
         }
       ]

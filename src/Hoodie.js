@@ -16,6 +16,7 @@ export default class Hodie extends Component {
           img:'-902412790-1745095374.jpg',
           desc:'Материал:  хлопок, Натуральный материал Уникальный дизайн Большой капюшон',
           category:'hoodie',
+          size:'S',
           price:'700₴'
         },
         {
@@ -24,6 +25,7 @@ export default class Hodie extends Component {
           img:'-165107151040483677.jpg',
           desc:'Материал:  хлопок, Натуральный материал Уникальный дизайн Большой капюшон',
           category:'hoodie',
+          size:'S',
           price:'700₴'
         },
         {
@@ -32,6 +34,7 @@ export default class Hodie extends Component {
           img:'-945532885352711569.jpg',
           desc:'Материал:  хлопок, Натуральный материал Уникальный дизайн Большой капюшон',
           category:'hoodie',
+          size:'S',
           price:'700₴'
         },
         {
@@ -40,6 +43,7 @@ export default class Hodie extends Component {
           img:'-4488736901184324516.jpg',
           desc:'Материал:  хлопок, Натуральный материал Уникальный дизайн Большой капюшон',
           category:'hoodie',
+          size:'S',
           price:'700₴'
         },
         {
@@ -48,6 +52,7 @@ export default class Hodie extends Component {
           img:'1866891969-1615890617.jpg',
           desc:'Материал:  хлопок, Натуральный материал Уникальный дизайн Большой капюшон',
           category:'hoodie',
+          size:'S',
           price:'700₴'
         },
         {
@@ -56,6 +61,7 @@ export default class Hodie extends Component {
           img:'654537531725260223.jpg',
           desc:'Материал:  хлопок, Натуральный материал Уникальный дизайн Большой капюшон',
           category:'hoodie',
+          size:'S',
           price:'700₴'
         },
         {
@@ -64,6 +70,7 @@ export default class Hodie extends Component {
           img:'4393862681488671867.jpg',
           desc:'Материал:  хлопок, Натуральный материал Уникальный дизайн Большой капюшон',
           category:'hoodie',
+          size:'S',
           price:'700₴'
         },
         {
@@ -72,6 +79,7 @@ export default class Hodie extends Component {
           img:'8070220231290672328.jpg',
           desc:'Материал:  хлопок, Натуральный материал Уникальный дизайн Большой капюшон',
           category:'hoodie',
+          size:'S',
           price:'700₴'
         }
       ]
