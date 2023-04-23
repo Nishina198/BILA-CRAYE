@@ -13,9 +13,33 @@ body.active-modal2{
     height: 90px; 
     width: 45px; 
     background-color: white;
-    margin: 0.5% 63.5% ;
+    
     border-radius: 10px;
      
+}
+@media screen and (min-width: 1200px){
+    .language_div{
+        margin: 0.5% 65% ;
+    }
+    
+}
+@media screen and (max-width: 1500px){
+    .language_div{
+        margin: 0.5% 63.5% ;
+    }
+    
+}
+@media screen and (min-width: 1500px){
+    
+    .language_div{
+        margin: 0.5% 62% ;
+    }
+}
+@media screen and (min-width: 1700px){
+    
+    .language_div{
+        margin: 0.5% 61% ;
+    }
 }
 #asdfg{
     background-color: black;

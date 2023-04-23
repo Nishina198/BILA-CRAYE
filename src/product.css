@@ -3,21 +3,24 @@
 @media screen and (max-width: 450px){
     .item{
         flex-basis: none;
+        margin-bottom: 7%;
     }
 }
 @media screen and (min-width: 450px){
     .item{
         flex-basis: 20%;
+        margin-bottom: 3%;
     }
 }
 .item{
    
-    margin-right: 1%;
+    
+    width: 80%;
    
     font-family: 'FuturaPT-Book';
     text-align: center;
     font-size: 14px;
-    margin-bottom: 3%;
+    
     border: solid rgb(43, 43, 43) 0.5px;
     
 }

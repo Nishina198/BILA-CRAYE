@@ -192,7 +192,7 @@ header a{
     border-bottom: 1px solid;
 }
 .products{
-    margin: 3% 3% 0 6%;
+    margin: 3% 6% 0 6%;
     display: flex;
     justify-content: space-between;
     flex-wrap:wrap;
@@ -364,7 +364,7 @@ header a{
     }
     .products{
         justify-content:center;
-        margin: 5% 1% 0 6%;
+        margin: 7% 6% 0 6%;
     }
     #stuff{
         display: none;

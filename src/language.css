@@ -12,14 +12,42 @@
     border-radius: 10px;
      
 }
-.language_div_ukr{
-    margin: 0.5% 64%;
+
+
+
+@media screen and (min-width: 1200px){
+    .language_div_ukr{
+        margin: 0.5% 66% ;
+    }
+    .language_div_rus{
+        margin: 0.5% 67%;
+    }
 }
-.language_div_rus{
-    margin: 0.5% 65%;
+@media screen and (max-width: 1500px){
+    .language_div_ukr{
+        margin: 0.5% 64%;
+    }
+    .language_div_rus{
+        margin: 0.5% 65%;
+    }
 }
-.language_div{
-    margin: 0.5% 63.5%;
+@media screen and (min-width: 1500px){
+    
+    .language_div_ukr{
+        margin: 0.5% 62% ;
+    }
+    .language_div_rus{
+        margin: 0.5% 63%;
+    }
+}
+@media screen and (min-width: 1700px){
+    
+    .language_div_ukr{
+        margin: 0.5% 61% ;
+    }
+    .language_div_rus{
+        margin: 0.5% 62%;
+    }
 }
 #asdfg{
     background-color: black;
