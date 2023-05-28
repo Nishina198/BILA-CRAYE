@@ -136,7 +136,7 @@ header a{
 }
 
 .imgpage{
-    padding-bottom: 35%;
+    padding-bottom: 100vh;
     background: url(img/Rectangle\ 1.jpg);
     background-position: center center;
     background-attachment: fixed;
